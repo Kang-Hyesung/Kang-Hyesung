@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Kang-Hyesung
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: JAVA
